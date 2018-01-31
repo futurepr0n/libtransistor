@@ -1,0 +1,8 @@
+<map id="include/libtransistor/ipc.h" name="include/libtransistor/ipc.h">
+<area shape="rect" id="node2" href="$audio_8h.html" title="Audio data structures. " alt="" coords="55,97,189,138"/>
+<area shape="rect" id="node4" href="$nx_8h.html" title="Central Switch header. Includes all others. " alt="" coords="147,277,309,304"/>
+<area shape="rect" id="node5" href="$ipcserver_8h_source.html" title="include/libtransistor\l/ipcserver.h" alt="" coords="266,97,400,138"/>
+<area shape="rect" id="node6" href="$loader__config_8h_source.html" title="include/libtransistor\l/loader_config.h" alt="" coords="425,97,559,138"/>
+<area shape="rect" id="node3" href="$ipc_2audio_8h.html" title="Audio output. " alt="" coords="5,187,139,229"/>
+<area shape="rect" id="node7" href="$bsd_8h.html" title="BSD Sockets. " alt="" coords="397,187,531,229"/>
+</map>
