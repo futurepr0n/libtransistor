@@ -32,3 +32,7 @@ clean: clean_lib clean_test
 	rm -rf $(LIBTRANSISTOR_HOME)/docs
 
 distclean: clean clean_newlib clean_compiler-rt clean_pthread clean_sdl2
+
+fs.squashfs.o: fs.squashfs
+    mkdir -p $(@D)
+    $(LD) -s -r -b binary -m aarch64elf -T $(LIBTRANSISTOR_HOME)/fs.T -o $@ $<
